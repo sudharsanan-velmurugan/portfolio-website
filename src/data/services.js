@@ -1,0 +1,58 @@
+export const services = [
+  {
+    id: 1,
+    icon: '⬡',
+    title: '.NET Fullstack Development',
+    description: 'End-to-end web applications with ASP.NET Core, Web API, and React or Angular frontends.',
+    differentiator: false,
+  },
+  {
+    id: 2,
+    icon: '🛡',
+    title: 'Cybersecurity & Secure Dev',
+    description: 'Penetration testing, secure code reviews, threat modelling, and compliance support. Built into your development process — not bolted on.',
+    differentiator: true,
+  },
+  {
+    id: 3,
+    icon: '☁',
+    title: 'Cloud Deployment & DevOps',
+    description: 'Azure hosting, CI/CD pipeline setup with Azure Pipelines, Docker containerisation, and auto-scaled infrastructure.',
+    differentiator: false,
+  },
+  {
+    id: 4,
+    icon: '◈',
+    title: 'API Development & Integration',
+    description: 'REST and GraphQL APIs built with ASP.NET Core or Node.js, plus third-party integrations for payments, SMS, and more.',
+    differentiator: false,
+  },
+  {
+    id: 5,
+    icon: '◎',
+    title: 'Frontend Development',
+    description: 'Pixel-perfect UIs with React and Angular. Accessible, performant, and responsive across all viewports.',
+    differentiator: false,
+  },
+  {
+    id: 6,
+    icon: '▣',
+    title: 'Database Design & Optimisation',
+    description: 'Schema design, query optimisation, and data migration across PostgreSQL and SQL Server.',
+    differentiator: false,
+  },
+  {
+    id: 7,
+    icon: '◐',
+    title: 'Python Automation & Data',
+    description: 'Web scraping, workflow automation, data analysis pipelines, and ML integration using Python.',
+    differentiator: false,
+  },
+  {
+    id: 8,
+    icon: '◻',
+    title: 'Maintenance & Support',
+    description: 'Ongoing feature development, bug fixing, performance improvements, and legacy modernisation.',
+    differentiator: false,
+  },
+]
